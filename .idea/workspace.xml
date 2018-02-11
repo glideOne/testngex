@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83632224-9eef-415f-9144-d3569cce8a6f" name="Default" comment="" />
+    <list default="true" id="83632224-9eef-415f-9144-d3569cce8a6f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ExEleven.java" afterPath="$PROJECT_DIR$/src/test/java/ExEleven.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,16 +31,16 @@
       <file leaf-file-name="ExEleven.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ExEleven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            <state relative-caret-position="162">
+              <caret line="9" column="64" lean-forward="false" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#876#877#0" expanded="true" />
-                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -974,16 +976,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ExEleven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="162">
+          <caret line="9" column="64" lean-forward="false" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
           </folding>
         </state>
       </provider>

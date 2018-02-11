@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 public class ExEleven {
 
     //Q: Can groups be cross-class?
+    // If 10.2 throws exception, 10.4 and 10.5 are ignored. Why?
     @Test(groups = "sanity")
     public void exElevenPointOne() {
         System.out.println("Test 10.1 -> part of Sanity group");
