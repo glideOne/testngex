@@ -1,18 +1,20 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="test1" verbose="1">
+<suite name="test1" time-out="500" verbose="1">
     <test name="test" >
-        <groups>
-            <run>
-                <include name="smoke"/>
-                <exclude name="regression"/>
-            </run>
-        </groups>
+        <!--<groups>-->
+            <!--<run>-->
+                <!--<include name="smoke"/>-->
+                <!--<exclude name="regression"/>-->
+            <!--</run>-->
+        <!--</groups>-->
 
         <classes>
-            <class name="ExTwoThreeFour"/>
             <class name="ExOne"/>
+            <class name="ExTwoThreeFour"/>
+            <class name="ExFive"/>
+            <class name="ExSixSevenEight"/>
         </classes>
 
     </test>
