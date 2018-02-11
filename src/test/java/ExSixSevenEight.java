@@ -1,4 +1,3 @@
-import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.internal.thread.ThreadTimeoutException;
 
