@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83632224-9eef-415f-9144-d3569cce8a6f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ExSixSevenEight.java" afterPath="$PROJECT_DIR$/src/test/java/ExSixSevenEight.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,14 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExThirteen.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ExThirteen.java">
+      <file leaf-file-name="ExFourteen.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ExFourteen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="128">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -31,9 +30,22 @@
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+            <state relative-caret-position="144">
+              <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExSixSevenEight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ExSixSevenEight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding>
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,7 +77,6 @@
         <option value="$PROJECT_DIR$/src/test/java/ExTwoThreeFour.java" />
         <option value="$PROJECT_DIR$/src/test/java/ExFive.java" />
         <option value="$PROJECT_DIR$/src/test/java/ExSix.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ExSixSevenEight.java" />
         <option value="$PROJECT_DIR$/src/test/java/ExNineException.java" />
         <option value="$PROJECT_DIR$/src/main/java/CustomException.java" />
         <option value="$PROJECT_DIR$/src/test/java/ExNine.java" />
@@ -74,8 +85,10 @@
         <option value="$PROJECT_DIR$/src/main/java/DataProviders.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ExTwelve.java" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ExThirteen.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ExSixSevenEight.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ExFourteen.java" />
       </list>
     </option>
   </component>
@@ -192,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNG.xml Suite">
+  <component name="RunManager" selected="TestNG.ExFourteen.testOne">
     <configuration default="false" name="ExEleven.exElevenPointFive" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="testngex" />
@@ -204,34 +217,6 @@
       <option name="METHOD_NAME" value="exElevenPointFive" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="ExEleven" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="testngex" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExEleven" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -300,6 +285,62 @@
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExSixSevenEight.testSeven" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="testngex" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExSixSevenEight" />
+      <option name="METHOD_NAME" value="testSeven" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExFourteen.testOne" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="testngex" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExFourteen" />
+      <option name="METHOD_NAME" value="testOne" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <envs />
       <properties />
       <listeners />
@@ -622,20 +663,22 @@
       <listeners />
       <method />
     </configuration>
-    <list size="6">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="TestNG.TestNG.xml Suite" />
       <item index="1" class="java.lang.String" itemvalue="TestNG.SmokeGroup" />
       <item index="2" class="java.lang.String" itemvalue="TestNG.ExEleven.exElevenPointFive" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.ExEleven" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.ExTwelve.testElevenLoginFunctionality" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.D:/De pe Ubuntu/IdeaProjects/testngex/testngex/testng.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.ExTwelve.testElevenLoginFunctionality" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.D:/De pe Ubuntu/IdeaProjects/testngex/testngex/testng.xml" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.ExSixSevenEight.testSeven" />
+      <item index="6" class="java.lang.String" itemvalue="TestNG.ExFourteen.testOne" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.D:/De pe Ubuntu/IdeaProjects/testngex/testngex/testng.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.ExTwelve.testElevenLoginFunctionality" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.ExEleven.exElevenPointFive" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.ExEleven" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.ExFourteen.testOne" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.ExSixSevenEight.testSeven" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.D:/De pe Ubuntu/IdeaProjects/testngex/testngex/testng.xml" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.ExTwelve.testElevenLoginFunctionality" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.ExEleven.exElevenPointFive" />
       </list>
     </recent_temporary>
   </component>
@@ -658,34 +701,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExThirteen_exThirteen - 2018.02.12 at 12h 03m 47s.xml">
-      <configuration name="ExThirteen.exThirteen" configurationId="TestNG" />
+    <history-entry file="ExFourteen_testOne - 2018.02.12 at 13h 30m 58s.xml">
+      <configuration name="ExFourteen.testOne" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExThirteen_exThirteen - 2018.02.12 at 12h 03m 57s.xml">
-      <configuration name="ExThirteen.exThirteen" configurationId="TestNG" />
+    <history-entry file="ExSixSevenEight_testSeven - 2018.02.12 at 13h 26m 48s.xml">
+      <configuration name="ExSixSevenEight.testSeven" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExThirteen_exThirteen - 2018.02.12 at 12h 05m 03s.xml">
-      <configuration name="ExThirteen.exThirteen" configurationId="TestNG" />
+    <history-entry file="ExSixSevenEight_testSeven - 2018.02.12 at 13h 27m 02s.xml">
+      <configuration name="ExSixSevenEight.testSeven" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExThirteen_exThirteen - 2018.02.12 at 12h 05m 19s.xml">
-      <configuration name="ExThirteen.exThirteen" configurationId="TestNG" />
+    <history-entry file="ExSixSevenEight_testSeven - 2018.02.12 at 13h 27m 43s.xml">
+      <configuration name="ExSixSevenEight.testSeven" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExThirteen_exThirteen - 2018.02.12 at 12h 05m 41s.xml">
-      <configuration name="ExThirteen.exThirteen" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExThirteen_exThirteen - 2018.02.12 at 12h 09m 29s.xml">
-      <configuration name="ExThirteen.exThirteen" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestNG_xml_Suite - 2018.02.12 at 12h 03m 16s.xml">
-      <configuration name="TestNG.xml Suite" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestNG_xml_Suite - 2018.02.12 at 12h 03m 39s.xml">
-      <configuration name="TestNG.xml Suite" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestNG_xml_Suite - 2018.02.12 at 12h 09m 57s.xml">
-      <configuration name="TestNG.xml Suite" configurationId="TestNG" />
+    <history-entry file="ExSixSevenEight_testSeven - 2018.02.12 at 13h 27m 53s.xml">
+      <configuration name="ExSixSevenEight.testSeven" configurationId="TestNG" />
     </history-entry>
     <history-entry file="TestNG_xml_Suite - 2018.02.12 at 12h 10m 06s.xml">
+      <configuration name="TestNG.xml Suite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_xml_Suite - 2018.02.12 at 13h 25m 44s.xml">
+      <configuration name="TestNG.xml Suite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_xml_Suite - 2018.02.12 at 13h 25m 56s.xml">
+      <configuration name="TestNG.xml Suite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_xml_Suite - 2018.02.12 at 13h 27m 59s.xml">
+      <configuration name="TestNG.xml Suite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_xml_Suite - 2018.02.12 at 13h 28m 19s.xml">
       <configuration name="TestNG.xml Suite" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -703,7 +746,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32329988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5953177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32664436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -750,7 +793,7 @@
         <state relative-caret-position="416">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -784,7 +827,7 @@
         <state relative-caret-position="416">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -818,7 +861,7 @@
         <state relative-caret-position="416">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -852,7 +895,7 @@
         <state relative-caret-position="432">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -886,7 +929,7 @@
         <state relative-caret-position="128">
           <caret line="9" column="64" lean-forward="false" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -978,60 +1021,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ExFour.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExFive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ExNineException.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/CustomException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExNine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="102" lean-forward="true" selection-start-line="8" selection-start-column="102" selection-end-line="8" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExTwoThreeFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExSixSevenEight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1050,14 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DataProviders.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1071,23 +1058,47 @@
         <state relative-caret-position="416">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExTen.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="102" lean-forward="true" selection-start-line="8" selection-start-column="102" selection-end-line="8" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExTwoThreeFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1099,6 +1110,41 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExTen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExSixSevenEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExFourteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

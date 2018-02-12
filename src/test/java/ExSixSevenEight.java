@@ -13,8 +13,11 @@ public class ExSixSevenEight {
     }
 
     @Test(timeOut = 500, expectedExceptions = ThreadTimeoutException.class)
-    public void testSeven() throws InterruptedException {
-        Thread.sleep(600);
+    public void testSeven() {
+        try {
+            Thread.sleep(600);
+        } catch (Exception e) {
+        }
         System.out.println("Test Seven");
     }
 
