@@ -2,6 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="test1" time-out="500" verbose="1">
+    <parameter name="username" value="ovidiu.zakarias"/>
+    <parameter name="password" value="Quality1"/>
     <test name="test" >
         <!--<groups>-->
             <!--<run>-->
@@ -11,10 +13,11 @@
         <!--</groups>-->
 
         <classes>
-            <class name="ExOne"/>
-            <class name="ExTwoThreeFour"/>
-            <class name="ExFive"/>
-            <class name="ExSixSevenEight"/>
+            <!--<class name="ExOne"/>-->
+            <!--<class name="ExTwoThreeFour"/>-->
+            <!--<class name="ExFive"/>-->
+            <!--<class name="ExSixSevenEight"/>-->
+            <class name="ExThirteen"/>
         </classes>
 
     </test>
