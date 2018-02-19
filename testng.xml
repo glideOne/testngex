@@ -26,7 +26,11 @@
             <class name="ExThirteen"/>
         </classes>
 
+
     </test>
 
+    <listeners>
+        <listener class-name="SimpleTestListener"/>
+    </listeners>
 
 </suite>
