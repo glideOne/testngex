@@ -10,7 +10,12 @@
 <suite name="test1" parallel="methods" thread-count="3" verbose="1">
     <parameter name="username" value="ovidiu.zakarias"/>
     <parameter name="password" value="Quality1"/>
-    <test name="test" >
+
+    <listeners>
+        <listener class-name="SimpleTestListener"/>
+    </listeners>
+
+    <test name="test" preserve-order="true">
         <!--<groups>-->
             <!--<run>-->
                 <!--<include name="smoke"/>-->
@@ -19,18 +24,14 @@
         <!--</groups>-->
 
         <classes>
-            <class name="ExOne"/>
-            <class name="ExTwoThreeFour"/>
-            <class name="ExFive"/>
-            <class name="ExSixSevenEight"/>
-            <class name="ExThirteen"/>
+            <!--<class name="ExOne"/>-->
+            <!--<class name="ExTwoThreeFour"/>-->
+            <!--<class name="ExFive"/>-->
+            <!--<class name="ExSixSevenEight"/>-->
+            <!--<class name="ExThirteen"/>-->
+            <class name="ExFifteen"/>
         </classes>
 
-
     </test>
-
-    <listeners>
-        <listener class-name="SimpleTestListener"/>
-    </listeners>
 
 </suite>
